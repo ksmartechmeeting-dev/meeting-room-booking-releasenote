@@ -13,7 +13,7 @@
 
 ```jsx
 //iCal 형식의 공개주소
-https://calendar.google.com/calendar/ical/77518f3e2c6ed03625a9af2e568a9933085c799eab415f30b8aae822f44d9e59%40group.calendar.google.com/public/basic.ics
+https://calendar.google.com/calendar/ical/b434a54e0e2fd9a9660d1a9f3a7421d6d8110037cb4f9b72a6e058ae3ab34b8b%40group.calendar.google.com/public/basic.ics
 ```
 단, 회의실 예약 데이터의 전체 동기화가 아닌 8월 25일 이후에 생성되는 예약 내역만 확인하실 수 있고, 새로운 예약 생성, 삭제, 수정은 여전히 회의실 예약 서비스에서만 가능합니다.
 
